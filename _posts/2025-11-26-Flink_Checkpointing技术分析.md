@@ -1,12 +1,12 @@
 ---
-title: Apache Flink Checkpointing详细技术分析
+title: Apache Flink Checkpointing技术分析
 date: 2025-11-26 13:00:00 +0800
-categories: [Web3数据开发]
-tags: ['flink', 'checkpoint', 'fault-tolerance', 'exactly-once']
+categories: [大数据]
+tags: ['Flink']
 description: Flink检查点机制工作原理、配置参数、状态管理、Exactly-once语义保障与性能优化的完整技术分析
 ---
 
-# Apache Flink Checkpointing 详细技术分析
+# Apache Flink Checkpointing技术分析
 
 ## 目录
 1. [检查点机制的工作原理](#1-检查点机制的工作原理)

@@ -1,5 +1,5 @@
 ---
-title: 大数据仓库建模与OceanBase技术研究与实践蓝图
+title: 大数据仓库建模OceanBase实践
 date: 2025-11-26 12:00:00 +0800
 categories: [Web3数据开发]
 tags: ['data-warehouse', 'oceanbase', 'cdc', 'materialized-view']
